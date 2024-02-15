@@ -25,9 +25,8 @@ bashCopy code
 To use the script, simply run it from your terminal or command prompt. The `main()` function currently uses hardcoded values as an example. You can modify these values within the script to match your specific investment scenario:
 
 pythonCopy code
-
-`# Example usage with values for ENB.TO
-    investment_period = 10  # years
+#Example usage with values for ENB.TO 
+`   investment_period = 10  # years
     current_price = 45.53  # CAD
     current_yield = .0811  # Decimal
     dividend_growth_rate = .04733  # Decimal

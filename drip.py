@@ -39,7 +39,7 @@ def calculate_drip(investment_period, current_price, current_yield, dividend_gro
         'Annual Dividend': annual_dividend[1:],  # Exclude initial dividend for year calculations
         'Future Share Price': future_share_price,
         'Annual Income': annual_income,
-    })
+    }) 
 
     return results_df
 

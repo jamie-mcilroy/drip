@@ -51,3 +51,26 @@ The script prints a pandas DataFrame to the console, showing the number of share
 ----------
 
 This README provides a basic overview and guide on how to use the `drip.py` script. Feel free to adjust it according to your project's needs or specific details.
+
+## Usage - pif.py
+
+PIF is a pet project I've been messing with for a couple of years.  The idea is take dividend growth and DRIP and mash them together to calculate the potential income for the future.  
+
+For now, you need to create a porfolios folder and put a json file in it like the one below:
+
+    `[
+        {
+            "name": "Stock A",
+            "shares": 1000,
+            "current_price": 45.53,
+            "current_yield": 0.0811,
+            "dividend_growth_rate": 0.0473
+        },
+        {
+            "name": "Stock B",
+            "shares": 500,
+            "current_price": 100.00,
+            "current_yield": 0.045,
+            "dividend_growth_rate": 0.03
+        }
+    ]`

@@ -1,0 +1,25 @@
+[
+        {
+        "name": "Bell Canada",
+        "symbol": "BCE",
+        "shares": 1385
+    },
+    {
+        "name": "Canadian Nat. Resources",
+        "symbol": "CNQ",
+        "shares": 400
+    },
+    {
+        "name": "Enbridge",
+        "symbol": "ENB",
+        "shares": 3045
+    },{
+        "name": "National Bank",
+        "symbol": "NA",
+        "shares": 16
+    },{
+        "name": "Toronto Dominion Bank",
+        "symbol": "TD",
+        "shares": 422
+    }
+]

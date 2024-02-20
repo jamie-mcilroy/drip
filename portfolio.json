@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Stock A",
+        "shares": 1000,
+        "current_price": 45.53,
+        "current_yield": 0.0811,
+        "dividend_growth_rate": 0.0473
+    },
+    {
+        "name": "Stock B",
+        "shares": 500,
+        "current_price": 100.00,
+        "current_yield": 0.045,
+        "dividend_growth_rate": 0.03
+    }
+]
